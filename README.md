@@ -12,7 +12,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     </picture>
-    <img src="https://stats.justsong.cn/api/csdn?id=m0_51517236"> 
+    <img src="ttps://stats.justsong.cn/api/csdn?id=m0_68389211"> 
   </div>
   
   <!-- for beauty 留个空行好看点 -->
@@ -23,8 +23,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://blog.csdn.net/m0_68389211?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-尽力不摆烂的阿方-red" /></a>&emsp;
-    <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/WeChat-artboy_lyh-07c160" /></a>&emsp;
-    <img src="https://img.shields.io/badge/QQ-1531137510-green?logo=tencentqq" />&emsp;
+    <img src="https://img.shields.io/badge/QQ-1059721114-green?logo=tencentqq" />&emsp;
     <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
